@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	font-family: 微软雅黑;
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background: #eee;
+}
+
+.header{
+	width: 100%;
+	height: 50px;
+	background:#56BBF3;
+}
+
+#s1{
+	font-size:40px;
+	margin: 10px;
+	font-weight: bold;
+	color: #fff;
+	cursor: pointer;
+}
+
+.top{
+	width: 95%;
+	height: 30px;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 5px;
+	text-align: center;
+	line-height: 30px;
+}
+
+.content1{
+	width: 95%;
+	height: 200px;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 5px;	
+}
+
+.content1-left,.content1-right{
+	float:left;
+	margin: 20px;
+}
+
+.content1 img{
+	width: 20px;
+	border-radius: 256px;
+}
+
+#input2,#input3{
+	width: 30px;
+	border:none;
+	text-align: center;
+}
+
+.content2{
+	width: 95%;
+	height: 100px;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 5px;	
+}
+
+.content3{
+	width: 95%;
+	height: 100px;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 5px;	
+}
+
+.content3-span1{
+	display: inline-block;
+	font-weight: bold;
+	margin: 20px 0 0 30px;
+	font-size: 18px;
+}
+
+#input1{
+	width: 30px;
+	background: #eee;
+	border:1px solid #ccc;
+	text-align: center;
+}
+
+.content-span2{
+	color: #ffa600;
+	font-size: 12px;
+}
+
+.footer{
+	width: 95%;
+	height: 40px;
+	margin: 10px auto;
+}
+
+#btn1{
+	width: 100%;
+	height: 100%;
+	color: #fff;
+	font-size: 1.5em;
+	background: #ffa600;
+	outline: none;
+	border:none;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
